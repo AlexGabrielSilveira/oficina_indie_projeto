@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|c:\\users\\alexg\\onedrive\\desktop\\curso_andre\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|c:\\users\\alexg\\onedrive\\desktop\\curso_andre\\assets\\scripts\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\assets\\scripts\\enemies\\rangedbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\rangedbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\assets\\scripts\\camera\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\assets\\scripts\\hud\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF014E2-1BEB-95F0-0EBC-99AE69691BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\HUD\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\HUD.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\HUD\\HUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD\\HUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:54:28.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2024-09-24T07:36:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Player\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Player\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InventoryManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwFcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:56:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:53:35.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RangedBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Enemies\\RangedBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\RangedBehaviour.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Enemies\\RangedBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\RangedBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:27:44.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Camera\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\PlayerCamera.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Desktop\\curso_andre\\Assets\\Scripts\\Camera\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\PlayerCamera.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:54:49.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

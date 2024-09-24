@@ -1,0 +1,47 @@
+﻿# This is a comment
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+[Uu]serSettings/
+[Oo]utdated/
+# Visual Studio files
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.booproj
+*.svd
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Unity Asset Store
+Assets/AssetStoreTools*
+
+# Mac-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# Other files
+*.apk
+*.unityproj
+*.pdb
+*.mdb
+
+# Version control
+*.lock
+
+# Uncomment if you have any secrets to hide
+#*.env

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7e4757bc867d1240946626e299aea46, type: 3}
+  m_Name: Wood Sword
+  m_EditorClassIdentifier: 
+  weapon_damage: 6
+  weapon_speed: 1
+  weapon_life: 0.25
+  weapon_range: 5
+  wepon_icon: {fileID: 623816536, guid: 1370c13114f5a8d49acb3016e901c13e, type: 3}
+  weapon_name: Wood Sword
+  weapon_value: 30
